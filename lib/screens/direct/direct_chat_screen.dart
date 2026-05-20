@@ -496,7 +496,7 @@ class _DirectMessageBubble extends StatelessWidget {
       Directory? baseDir;
       if (Platform.isAndroid) {
         // Hardcode the public standard Android Download directory to escape the app sandbox
-        baseDir = Directory('/storage/emulated/0/');
+        baseDir = Directory('/storage/emulated/0/Download');
       } else if (Platform.isIOS) {
         baseDir = await getApplicationDocumentsDirectory();
       } else {
