@@ -38,5 +38,8 @@ If you want to spin this up on your machine, it's pretty straightforward:
    flutter run
    ```
 
+## want to help?
+I'm looking for designers/creative minds who want to help make Amai Yuki even more beautiful. If you're down to design a custom logo, clean app icons, or some slick in-built profile pictures, hit me up! Drop an issue or reach out directly at mr.sehaj.official@gmail.com.
+
 ---
 *Built with care, pixels, and a lot of caffeine. If you like clean code and smooth interfaces, feel free to drop a star.*
